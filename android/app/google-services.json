@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216830360220",
+    "project_id": "mine-note-cda71",
+    "storage_bucket": "mine-note-cda71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216830360220:android:8999774f964ca2820acb59",
+        "android_client_info": {
+          "package_name": "com.example.mine_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216830360220-l955nb9c2jpinkbodpg0r4c1ji4rc10n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXuqwVTYzsm-SkohWOYzRDAfVBUC99FVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216830360220-l955nb9c2jpinkbodpg0r4c1ji4rc10n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
